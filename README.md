@@ -1,5 +1,4 @@
-# project_env_start
-vscode venv 환경 streamlit 으로 확인
+## vscode venv 가상환경 설정하고 streamlit 연동 확인
 
 my-project/
 
